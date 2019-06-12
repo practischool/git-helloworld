@@ -9,7 +9,7 @@ public class App {
      * @return 字符串"hello world"，大小写不限
      */
     public static String helloWorld() {
-        return "";
+        return "hello world";
     }
 
     public static void main(String[] args) {
